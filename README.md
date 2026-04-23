@@ -23,6 +23,8 @@ Featuring a sleek GUI, dynamic bandwidth control, and a robust multi-threaded do
 * **Dynamic Speed Limiting:** Adjust the download speed (MB/s) in real-time without pausing or restarting the transfer (Set to `0` for uncapped speed).
 * **Direct Fetching:** Target specific files using their exact extension names (e.g., `project_build.zip`).
 
+   ![Dashboard](assets/showcase.png)
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **GUI Framework:** CustomTkinter
